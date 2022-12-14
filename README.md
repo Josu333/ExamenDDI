@@ -1,1 +1,1 @@
-# Examen cpntrol aforo Parque Natural
+# Examen control aforo Parque Natural
